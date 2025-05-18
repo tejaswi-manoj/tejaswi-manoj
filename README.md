@@ -9,7 +9,8 @@ Above all, I *love* technology and learning and I hope to use both to help build
 - ⚡ **President @ GT Energy Club** – Led Georgia Tech’s largest sustainability org (300+ members). Organized EnergyHack@GT with MIT, NVIDIA, ExxonMobil; hosted Energy Chats with Georgia Power; led GE Vernova Data Center Tour.  
 - 🧱 **Piezoelectric Sidewalk Project Lead** – Leading a team of 6 to deploy 56 energy-harvesting tiles on campus. Developing firmware for LED control and power management.  
 - 🤖 **My First AI Project!** – Built a GPT-based course assistant for ECE 2806 (AI Foundations) with focus on CNNs. Explored dataset impact, tokenization, and optimizer tuning.
-
+- 🏅 **Outstanding Service & Outreach Award (2025)** – Presented by Georgia Tech's School of ECE to one student annually for impactful community service
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejaswi-manoj) 
 
