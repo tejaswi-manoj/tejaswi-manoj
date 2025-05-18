@@ -1,7 +1,14 @@
 # Hi, I am Tejaswi Manoj, a 2nd Year Electrical Engineering student at Georgia Tech.
-<br><br>I like:<br><br>⚡ Power electronics and grid-scale energy systems<br><br>🤖 Embedded systems and intelligent hardware<br><br>💬 Tracking my learning through projects and writing<br><br>and most importantly . . .<br><br>🌱 Learning and exploring new things!<br><br>Currently interning at <a href="https://www.tesla.com/" target="_blank">Tesla</a> as a Power Electronics & Failure Analysis Intern. 
+<br><br>I like:<br><br>⚡ Power electronics and grid-scale energy systems<br><br>🤖 Embedded systems and intelligent hardware<br><br>💬 Tracking my learning through projects and writing<br><br>and most importantly . . .<br><br>🌱 Learning and exploring new things!
 
-In my free time, I love Leetcoding, exploring AI/ML through courses or personal projects, and binge-watching <a href="https://www.youtube.com/@AndrejKarpathy" target="_blank">Andrej Karpathy</a> / <a href="https://www.youtube.com/@statquest" target="_blank">Joshua Starmer</a> videos!
+## 🚀 Technical Highlights:
+- 🛠️ **Tesla Intern** – Power Electronics & Failure Analysis   
+- 📡 **IEEE Xplore Author (upcoming)** – Co-authored paper on building Ghana's first synthetic grid model
+- ⚡ **President @ GT Energy Club** – Led Georgia Tech’s largest sustainability org (300+ members). Organized EnergyHack@GT with MIT, NVIDIA, ExxonMobil; hosted Energy Chats with Georgia Power; led GE Vernova Data Center Tour.  
+- 🧱 **Piezoelectric Sidewalk Project Lead** – Leading a team of 6 to deploy 56 energy-harvesting tiles on campus. Developing firmware for LED control and power management.  
+- 🤖 **My First AI Project!** – Built a GPT-based course assistant for ECE 2806 (AI Foundations) with focus on CNNs. Explored dataset impact, tokenization, and optimizer tuning.
+
+I also enjoy Leetcoding, exploring AI/ML through courses or personal projects, and binge-watching <a href="https://www.youtube.com/@AndrejKarpathy" target="_blank">Andrej Karpathy</a> / <a href="https://www.youtube.com/@statquest" target="_blank">Joshua Starmer</a> videos!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejaswi-manoj) 
