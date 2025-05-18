@@ -1,5 +1,5 @@
 # Hi, I am Tejaswi Manoj, a 2nd Year Electrical Engineering student at Georgia Tech.
-<br><br>I like:<br><br>⚡ Power electronics and grid-scale energy systems<br><br>🤖 Embedded systems and intelligent hardware<br><br>💬 Tracking my learning through projects and writing<br><br>and most importantly . . .<br><br>🌱 Learning and exploring new things!<br><br>Currently interning at Tesla and exploring AI/ML through courses, personal projects, and binge-watching Andrej Karpathy/Joshua Starmer videos!
+<br><br>I like:<br><br>⚡ Power electronics and grid-scale energy systems<br><br>🤖 Embedded systems and intelligent hardware<br><br>💬 Tracking my learning through projects and writing<br><br>and most importantly . . .<br><br>🌱 Learning and exploring new things!<br><br>Currently interning at <a href="https://www.tesla.com/" target="_blank">Tesla</a> and exploring AI/ML through courses, personal projects, and binge-watching <a href="https://www.youtube.com/@AndrejKarpathy" target="_blank">Andrej Karpathy</a> / <a href="https://www.youtube.com/@statquest" target="_blank">Joshua Starmer</a> videos!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejaswi-manoj) 
