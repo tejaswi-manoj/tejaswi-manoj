@@ -1,5 +1,5 @@
 # 👋 Hi, I am Tejaswi Manoj.
-I'm a 2nd-year Electrical Engineering student at Georgia Tech. I enjoy working on projects in power electronics, energy systems, and digital design. Recently, I’ve been getting into LeetCode, exploring AI/ML through courses and side projects, and binge-watching <a href="https://www.youtube.com/@AndrejKarpathy" target="_blank">Andrej Karpathy</a> and <a href="https://www.youtube.com/@statquest" target="_blank">Joshua Starmer</a>.  
+I'm a 3rd-year Electrical Engineering student at Georgia Tech. I enjoy working on projects in power electronics, energy systems, AI/ML, and digital design. 
 
 Above all, I *love* technology and learning and I hope to use both to help build a better world.
 
