@@ -21,9 +21,7 @@ Above all, I *love* learning and I hope to use my drive and passion for technolo
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=tejaswi-manoj&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tejaswi-manoj&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswi-manoj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 </div>
 
