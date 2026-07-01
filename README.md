@@ -21,7 +21,7 @@ Above all, I *love* learning and I hope to use my drive and passion for technolo
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=tejaswi-manoj)](https://git.io/streak-stats)
 
 </div>
 
